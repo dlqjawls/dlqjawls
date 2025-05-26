@@ -1,49 +1,81 @@
-# 👋 안녕하세요, dlqjawls 입니다!
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/175274929?v=4" width="160" />
+</div>
 
-저는 다양한 프로젝트를 통해 꾸준히 성장하고 있는 개발자입니다.  
-Python, Dart, Vue 등 여러 언어와 프레임워크를 활용해 백엔드부터 프론트엔드까지 다양한 개발 경험을 쌓았습니다.
+<h2 align="center">안녕하세요, dlqjawls 입니다! 👋</h2>
+<p align="center">
+  백엔드와 프론트엔드 모두 경험하며, <br>
+  새로운 기술 습득과 실전 프로젝트를 즐기는 개발자입니다. <br>
+  다양한 언어, 프레임워크, 그리고 협업/디자인 도구까지 폭넓게 사용할 줄 압니다.
+</p>
 
----
+<br/>
 
-## 🛠 주요 프로젝트 및 기술 스택
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+</div>
 
-- **Python**  
-  - [samepjt](https://github.com/dlqjawls/samepjt)  
-  - [same_pjt](https://github.com/dlqjawls/same_pjt)
-- **Dart, Flutter**  
-  - [fintechpjt](https://github.com/dlqjawls/fintechpjt)  
-  - [freepjt](https://github.com/dlqjawls/freepjt)  
-  - [final_pjt](https://github.com/dlqjawls/final_pjt)  
-  - [backdoor](https://github.com/dlqjawls/backdoor)  
-  - [fintech_pjt](https://github.com/dlqjawls/fintech_pjt)  
-  - [solo_pjt](https://github.com/dlqjawls/solo_pjt)
-- **Vue.js**  
-  - [practeq](https://github.com/dlqjawls/practeq)
-- **기타**  
-  - [portfolio](https://github.com/dlqjawls/portfolio): 다양한 기술 실험 및 포트폴리오 관리
+<br/>
 
----
+<h3 align="center">📚 Studying / 관심 기술 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
 
-## 🎨 프론트엔드 & 협업 툴
+<br/>
 
-- **HTML / CSS / JavaScript** : 웹의 기본을 모두 활용할 수 있습니다.
-- **Figma** : UI/UX 설계 및 프로토타이핑 경험
-- **Git / GitHub** : 버전 관리 및 협업 필수 툴 능숙
-- **기타** : React, 기본적인 디자인 시스템, 간단한 애니메이션 등도 다룰 수 있습니다.
+<h3 align="center">🛠 Collaboration & Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vscode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+</div>
 
----
+<br/>
 
-## 🔍 저의 특징
+<h3 align="center">🚀 주요 프로젝트</h3>
+<div align="center">
 
-- **다양한 언어와 프레임워크 경험**
-- **팀 프로젝트와 개인 프로젝트 모두 경험**
-- **새로운 기술에 대한 꾸준한 탐구와 적용**
-- **프론트엔드와 백엔드 전반에 걸친 폭넓은 실무 경험**
+- <a href="https://github.com/dlqjawls/samepjt"><b>samepjt</b></a> (Python)
+- <a href="https://github.com/dlqjawls/fintechpjt"><b>fintechpjt</b></a> (Dart/Flutter)
+- <a href="https://github.com/dlqjawls/freepjt"><b>freepjt</b></a> (Dart/Flutter)
+- <a href="https://github.com/dlqjawls/final_pjt"><b>final_pjt</b></a> (Dart/Flutter)
+- <a href="https://github.com/dlqjawls/backdoor"><b>backdoor</b></a> (Dart/Flutter)
+- <a href="https://github.com/dlqjawls/fintech_pjt"><b>fintech_pjt</b></a> (Dart/Flutter)
+- <a href="https://github.com/dlqjawls/same_pjt"><b>same_pjt</b></a> (Python)
+- <a href="https://github.com/dlqjawls/solo_pjt"><b>solo_pjt</b></a> (Dart/Flutter)
+- <a href="https://github.com/dlqjawls/practeq"><b>practeq</b></a> (Vue)
+- <a href="https://github.com/dlqjawls/portfolio"><b>portfolio</b></a> (기술 실험/포트폴리오)
+</div>
 
----
+<br/>
 
-## 📫 Contact
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:dlqjawls@gmail.com">
+    <img src="https://img.shields.io/badge/dlqjawls@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://github.com/dlqjawls">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  </a>
+</div>
 
-- GitHub: [dlqjawls](https://github.com/dlqjawls)
+<br/>
 
-> 더 많은 프로젝트는 [여기](https://github.com/dlqjawls?tab=repositories&sort=updated)에서 확인하실 수 있습니다!
+<div align="center">
+  <sub>
+    더 많은 프로젝트와 활동은 <a href="https://github.com/dlqjawls?tab=repositories&sort=updated"><b>GitHub</b></a>에서 확인하실 수 있습니다!
+  </sub>
+</div>
