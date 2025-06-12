@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/175274929?v=4" width="160" />
 </div>
 
-<h2 align="center">안녕하세요, 이범진 입니다! 👋</h2>
+<h2 align="center"> 안녕하세요 웹,앱 프론트엔드 개발자 이범진 입니다! 👋</h2>
 <p align="center">
   백엔드와 프론트엔드 모두 경험하며, <br>
   새로운 기술 습득과 실전 프로젝트를 즐기는 개발자입니다. <br>
